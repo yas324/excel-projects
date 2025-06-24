@@ -36,7 +36,7 @@ This Excel-based interactive **Insurance Branch Dashboard** provides comprehensi
 ## 📊 Dashboard Snapshot
 
 ### 🖥️ Insurance Branch Dashboard
-![Insurance Dashboard](./excel.JPG)
+![insurance-dashboard](./Snapshot.JPG)
 
 > Visualizes opportunity distribution, revenue progress, executive performance, and product segmentation with dynamic KPIs and interactive charts.
 
