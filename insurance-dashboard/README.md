@@ -102,6 +102,10 @@ This Excel-based interactive **Insurance Branch Dashboard** provides comprehensi
 ## 👤 Author
 
 **Syed Yaseen**  
-*Aspiring Data Analyst | Excel | Power BI | SQL | Tableau*
+*Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*
+
+[![🌐 Portfolio - syedyaseen324.carrd.co](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://syedyaseen324.carrd.co/)
+
+⭐ **Don't forget to star the repo if you found it helpful!**
 
 
