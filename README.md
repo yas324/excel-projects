@@ -7,3 +7,12 @@ This repository contains a collection of data analysis projects developed using 
 - Dynamic Slicers and Filters
 - KPI Cards with Conditional Formatting
 - Data Cleaning using Excel Functions
+
+## 👤 Author
+
+**Syed Yaseen**  
+*Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*
+
+[![🌐 Portfolio - syedyaseen324.carrd.co](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://syedyaseen324.carrd.co/)
+
+⭐ **Don't forget to star the repo if you found it helpful!**
