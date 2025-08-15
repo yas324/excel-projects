@@ -113,9 +113,9 @@ Follow-up-rate2 =
 
 ## 📷 Dashboard Snapshot
 
-[**▶️ View Dashboard Snapshot**](./Excel_Dashboard.png)
+![healthcare-dashboard](./Excel_Dashboard.JPG)
 
-
+> This interactive dashboard showcases hospital performance insights with real-time filtering and drill-down capabilities.
 ---
 
 ## 📊 Visuals & What They Show
