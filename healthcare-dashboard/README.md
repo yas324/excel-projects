@@ -37,7 +37,9 @@ The dashboard uses **Power Pivot with DAX formulas** to calculate KPIs dynamical
 ## 🧮 DAX Measures Used
 <details> <summary><strong>🧮 View DAX Measures Used</strong></summary>
     
-```DAX
+```
+DAX
+
 -- % of Abnormal Lab Results
 % of Abnormal Lab Results =
     CALCULATE(
@@ -110,7 +112,6 @@ Follow-up-rate2 =
     ) / COUNT(Visit[Visit ID])
 ```
 </details>
----
 
 ## 📷 Dashboard Snapshot
 
