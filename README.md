@@ -8,6 +8,25 @@ This repository contains a collection of data analysis projects developed using 
 - KPI Cards with Conditional Formatting
 - Data Cleaning using Excel Functions
 
+
+
+### **🔗 Explore My Other Repositories**
+
+<p align="left">
+
+  <img src="https://img.icons8.com/color/24/000000/power-bi.png" alt="Power BI"/>
+  <a href="https://github.com/yas324/powerbi-projects" target="_blank">Power BI</a>  
+  <br>
+
+  <img src="https://img.icons8.com/ios-filled/24/000000/sql.png" alt="SQL"/>
+  <a href="https://github.com/yas324/sql-projects" target="_blank">SQL</a>  
+  <br>
+
+  <img src="https://img.icons8.com/color/24/000000/tableau-software.png" alt="Tableau"/>
+  <a href="https://github.com/yas324/tableau-projects" target="_blank">Tableau</a>
+
+</p>
+
 ## 👤 Author
 
 **Syed Yaseen**  
