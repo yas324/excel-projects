@@ -18,14 +18,25 @@ This repository contains a collection of data analysis projects developed using 
   <a href="https://github.com/yas324/powerbi-projects" target="_blank">Power BI</a>  
   <br>
 
+
   <img src="https://img.icons8.com/ios-filled/24/000000/sql.png" alt="SQL"/>
   <a href="https://github.com/yas324/sql-projects" target="_blank">SQL</a>  
   <br>
 
+
   <img src="https://img.icons8.com/color/24/000000/tableau-software.png" alt="Tableau"/>
   <a href="https://github.com/yas324/tableau-projects" target="_blank">Tableau</a>
+  <br>
 
-</p>
+
+  <img src="https://img.icons8.com/ios-filled/24/000000/resume.png" alt="Resume"/>
+  <a href="https://github.com/yas324/Resume" target="_blank">Resume</a>  
+  <br>
+
+
+  <img src="https://img.icons8.com/ios-glyphs/24/000000/github.png" alt="GitHub"/> 
+  <a href="https://github.com/yas324" target="_blank">My Profile (Home)</a>  
+ </p>
 
 ## 👤 Author
 
